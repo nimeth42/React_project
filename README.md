@@ -1,8 +1,8 @@
 # React_project
 
-Just a pet Project for lear rect and node.js in depth 
+<p> Just a pet Project for lear rect and node.js in depth 
 
-Tech Stack
-React
-Nodejs and Express
-mysql
+<br> Tech Stack
+<br> React
+<br> Nodejs and Express
+<br> mysql

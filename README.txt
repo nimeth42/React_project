@@ -1,7 +1,8 @@
 React_project
 
+Just a pet Project for lear rect and node.js in depth 
 
-Just a pet Project
+Tech Stack
 React
 Nodejs and Express
 mysql
